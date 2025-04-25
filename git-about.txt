@@ -1,3 +1,4 @@
-create a new branch dev.
+create a new branch dev.(fix bug)
 add new lin: switch branch quickly  and  simple.
 some work pending...
+
