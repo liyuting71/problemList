@@ -1,2 +1,2 @@
 create a new branch dev.
-add new lin: switch branch quickly  and and simple.
+add new lin: switch branch quickly  and  simple.
