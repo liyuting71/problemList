@@ -1,6 +1,2 @@
 create a new branch dev.
-<<<<<<< HEAD
-add new lin: switch branch quickly and simple.
-=======
-add new lin: switch branch quickly and simple.
->>>>>>> feather1
+add new lin: switch branch quickly  and and simple.
